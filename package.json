@@ -1,0 +1,15 @@
+{
+  "name": "notes-electron",
+  "version": "1.0.0",
+  "description": "we can write notes to save ",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Shovit Bastakoti",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^20.0.2",
+    "nedb": "^1.8.0"
+  }
+}
